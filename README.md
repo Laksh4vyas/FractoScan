@@ -175,12 +175,11 @@ For developers who want to contribute to the project:
    uvicorn app:app --reload --debug
    ```
 
-## 👥 Our Team
+
 
 FractoScan is developed by a multidisciplinary team of AI/ML developers and software engineers:
 
 - **Laksh Vyas ** - Frontend and backend Lead
-- **Vinay Goswami** -  Backend Lead
 ## 🙏 Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection model
